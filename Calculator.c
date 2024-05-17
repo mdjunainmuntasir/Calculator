@@ -5,7 +5,7 @@
 float add()
 {
     int a[100];
-    float num, sum = 0;
+    float num, sum = 0; 
 
     printf("How many numbers: ");
     scanf("%f", &num);
